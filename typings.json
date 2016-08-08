@@ -1,0 +1,7 @@
+{
+  "name": "stomp",
+  "main": "browser.d.ts",
+  "browser": "browser.d.ts",
+  "dependencies": {
+  }
+}
